@@ -2,14 +2,19 @@
 
 ***
 paper : https://arxiv.org/abs/1905.03677
+
 author slide : https://www.slideshare.net/NaverEngineering/learning-loss-for-active-learning
 
 All pictures are taken from the author's slide.
 
 **It is not finished yet.**
+
 ***
 
 Margin ranking loss
+
+<img src='./assets/img2.PNG' />
+
 
 ```python
 
